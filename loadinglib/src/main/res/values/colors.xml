@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="layout_bg_common_secondary">#dfe3e6</color>
+    <color name="tv_text_gray_8b8b8b">#8b8b8b</color>
+
+    <color name="btn_bg_blue_normal">#2495ee</color>
+    <color name="btn_bg_blue_pressed">#1968a6</color>
+    <color name="btn_bg_disable">#b2b6b8</color>
+
+</resources>

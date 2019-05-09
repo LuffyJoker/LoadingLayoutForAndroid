@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button">
+        <item name="android:layout_width">@dimen/btn_width</item>
+        <item name="android:layout_height">@dimen/wrap_content</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="Button.RightAngle" parent="Button">
+        <item name="android:background">@drawable/selector_button_blue</item>
+    </style>
+
+    <style name="Button.RoundCorner" parent="Button">
+        <item name="android:background">@drawable/selector_button_blue_corners</item>
+    </style>
+
+</resources>
